@@ -6,7 +6,11 @@
 </p>
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=Amol-Satsangi1266&show_icons=true&theme=tokyonight)
 
+![Streak](https://streak-stats.demolab.com?user=Amol-Satsangi1266&theme=tokyonight)
+
+---
 💻 **C++ & Backend-Oriented Developer** with strong foundations in  
 Data Structures, OOP, Linux, and System-Level Programming.
 
