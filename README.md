@@ -1,4 +1,5 @@
-![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+<img src="https://ishan-rest.vercel.app/svg/banner/github" width="70%"/>
+
 ---
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
 <h3 align="center">C++ Developer | Electrical Engineering (with CS) | IEEE Chair</h3>
