@@ -1,3 +1,4 @@
+![Developer Banner 3](https://ishan-rest.vercel.app/svg/banner/dev3/Amol Satsangi)
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
 <h3 align="center">C++ Developer | Electrical Engineering (with CS) | IEEE Chair</h3>
 
@@ -6,10 +7,7 @@
 </p>
 
 ---
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="600"/>
 
-
----
 💻 **C++ & Backend-Oriented Developer** with strong foundations in  
 Data Structures, OOP, Linux, and System-Level Programming.
 
