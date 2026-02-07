@@ -6,9 +6,8 @@
 </p>
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=Amol-Satsangi1266&show_icons=true&theme=tokyonight)
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="600"/>
 
-![Streak](https://streak-stats.demolab.com?user=Amol-Satsangi1266&theme=tokyonight)
 
 ---
 💻 **C++ & Backend-Oriented Developer** with strong foundations in  
