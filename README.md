@@ -1,4 +1,4 @@
-<img src="https://ishan-rest.vercel.app/svg/banner/github" width="70%"/>
+<img src="https://ishan-rest.vercel.app/svg/banner/github" width="40%"/>
 
 ---
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
