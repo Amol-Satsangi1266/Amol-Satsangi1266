@@ -1,4 +1,5 @@
-![Developer Banner 3](https://ishan-rest.vercel.app/svg/banner/dev3/Amol Satsangi)
+![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
+---
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
 <h3 align="center">C++ Developer | Electrical Engineering (with CS) | IEEE Chair</h3>
 
