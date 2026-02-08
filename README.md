@@ -6,7 +6,7 @@
 
 ---
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
-<h3 align="center">C++ Developer | Electrical Engineering (with CS) | IEEE Chair</h3>
+<h3 align="center">C++ Developer | Electrical Engineering (with CS) | Backend Enthusiast</h3>
 
 <p align="center">
   <em>Building efficient systems at the intersection of software, hardware, and engineering.</em>
