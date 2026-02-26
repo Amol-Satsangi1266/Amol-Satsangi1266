@@ -51,7 +51,7 @@ Leading research, innovation, and technical initiatives.
 ---
 
 ### 📌 Philosophy
-> *I know and I believe that I give my 100% to make a problem easily understanbale and solvable!*
+> *I know and I believe that I give my 100% to make a problem easily understandable and solvable!*
 
 ---
 
