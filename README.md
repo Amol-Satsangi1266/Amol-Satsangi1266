@@ -28,7 +28,7 @@ Leading research, innovation, and technical initiatives.
 ---
 
 ### 🛠 Tech Arsenal
-**Languages:** C, C++, Java , SQL
+**Languages:** C, C++, Java, SQL
 **Core CS:** DSA, OOPs, Git, GitHub, Linux  
 **Web:** HTML, CSS, JavaScript, Tailwind CSS , PostgreSQL
 **Domains:** Backend Systems • Embedded Logic • Engineering Software
