@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/github" width="40%"/>
-</p>
 
-
-
----
 <h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
 <h3 align="center">C++ Developer | Electrical Engineering (with CS) | Backend Enthusiast</h3>
 
@@ -34,9 +28,9 @@ Leading research, innovation, and technical initiatives.
 ---
 
 ### 🛠 Tech Arsenal
-**Languages:** C, C++, Java  
+**Languages:** C, C++, Java , SQL
 **Core CS:** DSA, OOPs, Git, GitHub, Linux  
-**Web:** HTML, CSS, JavaScript, Tailwind CSS  
+**Web:** HTML, CSS, JavaScript, Tailwind CSS , PostgreSQL
 **Domains:** Backend Systems • Embedded Logic • Engineering Software
 
 ---
