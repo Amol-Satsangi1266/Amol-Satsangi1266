@@ -15,7 +15,7 @@ Data Structures, OOP, Linux, and System-Level Programming.
 📍 Dayalbagh Educational Institute, Agra | CGPA: 8.1  
 
 ⚡ **Ex-Chair — IEEE Student Branch, DEI**  
-Leading research, innovation, and technical initiatives.
+Leading research, innovation, and technical initiatives in the branch.
 
 ---
 
