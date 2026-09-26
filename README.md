@@ -1,99 +1,19 @@
-<h1 align="center">Hey 👋 I'm Amol Satsangi</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | C++ | Electrical Engineering (with CS)</h3>
+# 💫 About Me:
+I’m a final-year Electrical Engineering student with a Computer Science specialization, focused on becoming a Java Backend / Full Stack Developer. I have experience with C++, Java, OOP, DSA, SQL, PostgreSQL, Linux, Git, and Spring Boot, including REST APIs, JPA/Hibernate, DTOs, validation, exception handling, Swagger/OpenAPI, and Spring Security/JWT. I’m also learning JavaScript, React, and frontend fundamentals. I’ve worked on backend projects and SAP ABAP during my internship, and I’m currently strengthening my DSA and backend skills for placements.
 
-<p align="center">
-  <em>Building efficient backend systems with a strong foundation in software engineering and problem solving.</em>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amol Satsangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amolpankaj14@gmail.com) 
 
-💻 **Backend-Focused Developer** with strong foundations in
-Java, Spring Boot, C++, Data Structures, OOP, SQL, and system-level programming.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Amol-Satsangi1266&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Amol-Satsangi1266&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amol-Satsangi1266&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 **B.Tech — Electrical Engineering with Computer Science**
-📍 Dayalbagh Educational Institute, Agra | CGPA: 8.1
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-⚡ **Ex-Chair — IEEE Student Branch, DEI**
-Led technical initiatives, workshops, and student innovation activities.
-
----
-
-### 💼 Experience
-
-**SAP ABAP Developer Intern — Gemba Infotech**
-*April 2026 – August 2026*
-
-* Worked as an **SAP ABAP Developer** on enterprise SAP systems.
-* Developed and worked with **ABAP programs and business logic**.
-* Gained hands-on experience with **SAP ERP and SAP HANA**.
-* Worked with enterprise data, database operations, and SAP development workflows.
-* Gained practical exposure to understanding and implementing **real-world business requirements** in SAP environments.
-
----
-
-### 🔥 What I Work On
-
-* ☕ **Java & Spring Boot Backend Development**
-* 🌐 **REST APIs & Backend Architecture**
-* 🔐 **Spring Security & JWT Authentication**
-* 🗄️ **PostgreSQL & MongoDB**
-* 🧠 **Data Structures & Algorithms**
-* ⚙️ **C++ & System-Level Programming**
-* 🏢 **SAP ABAP & Enterprise Systems**
-* 🔌 **Embedded & Engineering Projects**
-
----
-
-### 🛠 Tech Arsenal
-
-**Languages:** C, C++, Java, JavaScript, SQL, Python, ABAP
-
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs
-
-**Security:** Spring Security, JWT
-
-**Databases:** PostgreSQL, MongoDB, SAP HANA
-
-**Core CS:** DSA, OOP, DBMS, Git, GitHub, Linux
-
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-
-**Enterprise:** SAP ERP, SAP ABAP, SAP HANA
-
-**Other:** Arduino, Embedded Systems
-
----
-
-### 🚀 Current Focus
-
-* Building production-style **Spring Boot backend projects**
-* Strengthening **Core Java & advanced Java**
-* Practicing **Data Structures & Algorithms**
-* Building full-stack applications with **Spring Boot + React**
-* Developing a deeper understanding of **backend architecture and system design**
-
----
-
-### 🏆 Highlights
-
-* 💼 **SAP ABAP Developer Intern — Gemba Infotech**
-* 🥇 Finalist — **IIT Delhi Entrepreneurship Competition**
-* 🧠 Finalist — **IIT Delhi Be'Con (Find Your Co-Founder)**
-* 🛡️ Organizer — **Cybersecurity Workshop**
-* 🇮🇳 Delegate — **IEEE AICCSYC 2024**
-* 🚀 **SIH 2024 & 2025 — Internal Qualifier**
-* ⚡ **Ex-Chair — IEEE Student Branch, DEI**
-
----
-
-### 📌 Philosophy
-
-> *I believe in giving my 100% to understand a problem deeply, break it down, and build a practical solution.*
-
----
-
-📫 **Reach Me:**
-
-📧 [amolpankaj14@gmail.com](mailto:amolpankaj14@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/Amol-Satsangi-a35a212ab/)
-🐙 [GitHub](https://github.com/Amol-Satsangi1266)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Amol-Satsangi1266&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
