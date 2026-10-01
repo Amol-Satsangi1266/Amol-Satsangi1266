@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year Electrical Engineering student with a Computer Science specialization, focused on becoming a Java Backend / Full Stack Developer. I have experience with C++, Java, OOP, DSA, SQL, PostgreSQL, Linux, Git, and Spring Boot, including REST APIs, JPA/Hibernate, DTOs, validation, exception handling, Swagger/OpenAPI, and Spring Security/JWT. I’m also learning JavaScript, React, and frontend fundamentals. I’ve worked on backend projects and SAP ABAP during my internship, and I’m currently strengthening my DSA and backend skills for placements.
+I’m a final-year Electrical Engineering student with a Computer Science specialization, focused on becoming a Java Backend / Full Stack Developer. I have experience with C++, Java, OOP, DSA, SQL, PostgreSQL, Linux, Git, and Spring Boot, including REST APIs, JPA/Hibernate, DTOs, validation, exception handling, Swagger/OpenAPI, and Spring Security/JWT. I’ve worked on backend projects and SAP ABAP during my internship.
 
 
 # 💻 Tech Stack:
